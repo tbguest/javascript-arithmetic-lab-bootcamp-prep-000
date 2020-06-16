@@ -1,4 +1,4 @@
 
-function increment(n) {
+function increment() {
   n += 1
 }
